@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+.text1{
+  color: white;
+}
+
+.text2{
+  font-family: 'Lobster', cursive;
+}
+.text3{
+  color: white;
+  font-size: 1.5rem;
+}
+.text4{
+  font-weight: bolder;
+  width: 140px;
+  font-size: 20px;
+}
+
+.text5{
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-weight: bolder;
+  font-size: 33px;
+}
+
+.shadow1{
+  box-shadow: 10px 10px 18.5px black;
+  border: 2px solid red;
+}

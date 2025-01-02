@@ -1,0 +1,12 @@
+there are some rule in css always first btwo bootstrap file---style.css---thenmedia.css
+
+
+
+=>create folder for image,style,fonts,mobile(media queries)
+=>specify title,descitptin,keywors,author
+=>specify fav image in link
+
+
+=>work on navbar(al ways make option with link and <a>)
+=>work on section
+=>pull all font and text in text file

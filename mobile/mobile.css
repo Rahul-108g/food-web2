@@ -1,0 +1,36 @@
+.mdq1{
+  width: inherit;
+  margin: -9px;
+}
+
+.mdq2{
+  height: 220px;
+  position: static;
+  z-index: 0;
+  background-color: black;
+}
+.mdq3{
+  width: 159px;
+  font-size: 22px;
+}
+
+
+.mdq4{
+  font-size: medium;
+  width: 116px;
+  height: 40px;
+}
+
+.mdq5{
+  display: flex;
+  width: 100%;
+  justify-content:center;
+}
+.mdq6{
+  width: 100%;
+  justify-content: center;
+
+}
+.mbq7{
+height: 30px;
+}
